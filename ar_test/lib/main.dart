@@ -35,7 +35,7 @@ class CustomObjectPage extends StatefulWidget {
   @override
   _CustomObjectPageState createState() => _CustomObjectPageState();
 }
-s
+aaaaa
 class _CustomObjectPageState extends State<CustomObjectPage> {
   late ARKitController arkitController;
   ARKitReferenceNode? node;
