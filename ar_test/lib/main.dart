@@ -29,7 +29,7 @@ class _MyAppState extends State<MyApp> {
     final node = ARKitReferenceNode(url: "assets/pancakes.usdz", scale: vector.Vector3.all(50));
     this.arkitController.add(node);
   }
-}
+}a
 
 class CustomObjectPage extends StatefulWidget {
   @override
